@@ -20,5 +20,5 @@ while guss != the_number:
     else:
         print('Hora {1},  you win!'.format(guss, name))
 
-print('done')
+print('done thank you ')
 
